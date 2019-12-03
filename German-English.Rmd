@@ -1,0 +1,42 @@
+---
+title: "German-English"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**1. Critique of Pure Reason: Dual Language Edition (Kant)**
+
+[html]()
+
+[Apple Book](https://books.apple.com/us/book/critique-of-pure-reason-dual-language/id1205802594)
+
+[Support Pages]()
+
+
+
+
+**2. Germania (Tacitus)**
+
+[html]()
+
+[Apple Book](https://books.apple.com/us/book/germania-dual-language-edition/id1477135609?ls=1)
+
+[Support Pages]()
+
+
+
+**3. Hegel, The Shorter Logic (Preliminary Publication)**
+
+[html / Preview ](https://indd.adobe.com/view/5aa47aba-e0bf-43f2-9d9f-5eb7fbf5098b)
+
+[Apple Book]()
+
+[Support Pages]()
+
+
+
+
+

@@ -1,0 +1,35 @@
+---
+title: "Latin-English"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**1. De Bello Catilinario et Jugurthino, by Caius Sallustii Crispi (Sallustius)**
+
+[html]()
+
+[Apple Book](https://books.apple.com/us/book/the-war-of-cataline-the-jurgurthine-war/id1467851944?ls=1)
+
+[Support Pages]()
+
+
+
+**2. Orations against Catiline (Cicero)**
+
+[html]()
+
+[Apple Book](https://books.apple.com/us/book/orations-against-catiline-i-iv-dual-langauge-edition/id1475418418?ls=1)
+
+[Support Pages]()
+
+
+**3. Germania (Tacitus)**
+
+[html]()
+
+[Apple Book](https://books.apple.com/us/book/orations-against-catiline-i-iv-dual-langauge-edition/id1475418418?ls=1)
+
+[Support Pages]()

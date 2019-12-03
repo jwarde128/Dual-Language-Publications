@@ -1,0 +1,12 @@
+name: "my-website"
+navbar:
+  title: "Dual Language Publications Project"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Background"
+      href: background.html
+    - text: "German-English"
+      href: German-English.html
+    - text: "Latin-English"
+      href: Latin-English.html
